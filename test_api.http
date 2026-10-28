@@ -28,7 +28,7 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "nim": "240101088",
+  "npm": "240101004",
   "nama": "Rizky Ramadhan",
   "program_studi": "Teknik Informatika",
   "angkatan": 2024,
